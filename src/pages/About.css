@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: lightgreen;
 }
 
 .right {
@@ -39,4 +39,8 @@
 .profile_image {
   width: 500px;
   height: auto;
+}
+.popcornImg{
+  width: 50;
+  height: 50;
 }
